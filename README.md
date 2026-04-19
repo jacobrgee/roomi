@@ -21,12 +21,15 @@
 
 ## ✨ Features
 
-- **Intuitive User Interface:** Pixel-perfect implementation of the original Figma designs.
-- **Responsive Design:** Fully optimized for mobile, tablet, and desktop viewing.
-- **Dynamic Component System:** Modular UI elements for easy maintenance and scalability.
-- **[Feature 1 - e.g., Swipe-to-Match]:** Allow users to effortlessly browse potential roommates.
-- **[Feature 2 - e.g., Secure In-App Messaging]:** Connect with verified users safely.
-- **[Feature 3 - e.g., Advanced Filtering]:** Filter by location, budget, pet preferences, and more.
+- **Intuitive User Interface:** Pixel-perfect implementation of the original Figma designs. Referencing https://www.airbnb.com for UX and UI when designs are not readily available.
+- **Responsive Design:** Fully optimized for mobile, tablet, and desktop viewing. Prioritizing the experience for mobile web browsing and mobile-native applications.
+- **Dynamic Component System:** Modular UI elements for easy maintenance and scalability. Maintaining consistent design patterns across the component library.
+- **Header Section:** Configurable header section that ____________.
+- **Navigation Menu:** Allow users to navigate through primary feature pages: Home, Finances, Calendar, Messages, and Discover (aka Roommate Search). Displaying indicators when important activity occurs for that page (e.g. new messages).
+- **Discover (aka Roommate Search):**
+  - **User Profile ____:** Allow users to effortlessly browse potential roommates.
+  - **[Feature 2 - e.g., Secure In-App Messaging]:** Connect with verified users safely.
+  - **[Feature 3 - e.g., Advanced Filtering]:** Filter by location, budget, pet preferences, and more.
 
 ---
 
@@ -36,7 +39,7 @@ This project heavily emphasizes a clean and modern user experience. The complete
 
 - **Figma Prototype:** [View the live Figma site here](https://roomi.figma.site)
 - **Primary Colors:** `[Insert Hex Codes]`
-- **Typography:** `[Insert Font Families]`
+- **Typography:** `Inter`
 
 ---
 
