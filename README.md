@@ -62,6 +62,7 @@ Page displaying a "stack" of user profiles and their related property profiles s
     - Liked users the current user are randomized to the top 50 of the queue
     - New users who have a higher compatability score derived from similar Lifestyle, Personality and Interests attributes are moved higher in the queue
     - Unliked, Removed, or Rejected users are moved towards the bottom of the queue
+    - New users who have been inactive for over the last 30 days is moved towards the bottom of the queue
     - Blocked users are removed from the queue forever
     - Liked, Matched, Requested, Accepted, and Completed users are hidden from the queue until Unliked, Removed, or Rejected
 - **Discover Search Filters:** 
